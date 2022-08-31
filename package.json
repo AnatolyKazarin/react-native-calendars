@@ -1,6 +1,6 @@
 {
   "name": "@anatolyk/react-native-calendars",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "main": "src/index.js",
   "types": "src/index.d.ts",
   "description": "React Native Calendar Components",
@@ -40,7 +40,7 @@
     "lodash": "^4.17.15",
     "memoize-one": "^5.2.1",
     "prop-types": "^15.5.10",
-    "react-native-gesture-handler": "^1.10.3",
+    "react-native-gesture-handler": ">=1.10.3",
     "react-native-swipe-gestures": "^1.0.5",
     "xdate": "^0.8.0"
   },
